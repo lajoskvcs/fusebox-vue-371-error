@@ -1,0 +1,41 @@
+{
+		"name": "fusebox-vue-371-error",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"repository": {
+				"type": "git",
+				"url": "git+https://github.com/diwiny/fusebox-vue-371-error.git"
+		},
+		"dependencies": {
+				"vue": "^2.6.3"
+		},
+		"devDependencies": {
+				"babel-core": "^6.26.3",
+				"babel-preset-env": "^1.7.0",
+				"consolidate": "^0.15.1",
+				"fuse-box": "^3.7.1",
+				"fusebox-pug-plugin-fixed": "^2.0.1",
+				"http-proxy-middleware": "^0.19.1",
+				"path": "^0.12.7",
+				"postcss": "^7.0.14",
+				"postcss-selector-parser": "^5.0.0",
+				"rupture": "^0.7.1",
+				"stylus": "^0.54.5",
+				"typescript": "^3.3.3",
+				"uglify-es": "^3.3.9",
+				"uglify-js": "^3.4.9",
+				"vue-hot-reload-api": "^2.3.2",
+				"vue-template-compiler": "^2.6.6",
+				"vue-template-es2015-compiler": "^1.8.2"
+		},
+		"author": "",
+		"license": "ISC",
+		"bugs": {
+				"url": "https://github.com/diwiny/fusebox-vue-371-error/issues"
+		},
+		"homepage": "https://github.com/diwiny/fusebox-vue-371-error#readme"
+}
